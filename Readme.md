@@ -6,5 +6,5 @@ TEST_WATCH=1 meteor test --driver-package meteortesting:mocha
 meteor deploy blaze-kokstad-tutorial.meteorapp.com --free --mongo
 ## Documentation
 https://blaze-tutorial.meteor.com/simple-todos/13-next-steps.html
-
+https://www.youtube.com/watch?v=eh5Ix7ma56s
 
